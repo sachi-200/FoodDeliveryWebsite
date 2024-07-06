@@ -1,0 +1,6 @@
+1) Open the admin, backend and frontend folders in separate integrated terminals.
+2) In the backend folder terminal type the command npm run server.
+3) Next in the admin folder terminal type the command npm run dev.
+4) Finally in the frontend folder terminal type the command npm run dev.
+5) Please run the command in admin terminal first and then in the frontend terminal.
+https://drive.google.com/drive/folders/1y2Xe06UGsSEcpBfu171a_k3ZNLo6t8dp?usp=sharing
